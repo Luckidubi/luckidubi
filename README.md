@@ -6,8 +6,8 @@ Hi, I am a Data Analyst and a Front-end Engineer who is passionate about sharing
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm a graduate of Udacity Data Analyst Nanodegree Program and currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. I am also currently enrolled in the Maliyo Academy game development bootcamp.
-- 🌱 I’m currently learning JavaScript, C#, Unity, Reactjs, and Python.
+- 💡 Fun fact: I'm a graduate of Udacity Data Analyst Nanodegree Program and currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Data Analyst, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing nwodochidubem1@gmail.com.
