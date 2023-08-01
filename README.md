@@ -10,7 +10,7 @@ Hi, I am a Front-end Engineer who is passionate about sharing knowledge, web eng
 - 🌱 I’m currently learning Nextjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Data Analyst, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing nwodochidubem1@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1YkGxHkRQVAEuZmaHErZEsacGxNLKumhl6boXgHBm_2c/edit?usp=sharing) and contact me by emailing nwodochidubem1@gmail.com.
 
 ---
 
